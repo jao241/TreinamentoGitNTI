@@ -1,2 +1,5 @@
 Primeiro arquivo.txt no GIT.
+
 Um arquivo comum de texto para propostios de estudo.
+
+Nova alteração do texto.
