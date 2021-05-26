@@ -1,1 +1,0 @@
-Um terceiro arquivo de texto no GIT.
