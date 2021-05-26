@@ -1,1 +1,2 @@
-Primeiro arquivo no GIT.
+Primeiro arquivo.txt no GIT.
+Um arquivo comum de texto para propostios de estudo.
